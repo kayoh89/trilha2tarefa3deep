@@ -1,2 +1,2 @@
-# trilha2tarefa3deep
+# Trilha 2: Tarefa (Peso 3)
 DEEP LEARNING PARA PROCESSAMENTO DE LINGUAGEM E VISÃO [TURMA 01B] - 2022/1
